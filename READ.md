@@ -1,1 +1,1 @@
-# Git Assignment - <prnthak>
+# Git Assignment - prnthak
